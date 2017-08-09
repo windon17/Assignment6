@@ -54,7 +54,7 @@ body {
 }
 
 /* Hero */
-/* tried url with and without quotes, with height as auto and fixed */
+
 .hero {
     background-image: url(../images/hero.jpg);
     height: 300px;
